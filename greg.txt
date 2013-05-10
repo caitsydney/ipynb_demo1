@@ -1,0 +1,1118 @@
+http://blogs.scientificamerican.com/a-blog-around-the-clock/2013/01/28/commenting-threads-good-bad-or-not-at-all/
+Very good article.
+G
+
+> 1) "We're doing a lot of good!"
+>
+> Do we have evidence of this?  Quantitative and/or objective evidence from
+> something other than a pure self-assessment?  Don't get me wrong -- I like the
+> results of the self-assessment -- but I haven't seen something that shows me
+> long-term gain in skills, and I think we need to figure out how to show that.
+I strongly agree (as you know :-).  I'm hoping that's separate from the 
+question of what other ways we deliver stuff, though of course we ought 
+to have an objective function we trust so that we can tell if we're 
+actually optimizing...
+> 2) "So now what do I do?"
+>
+> I have yet to figure out how to engage my NGS students beyond the two week
+> period; I know that even people *local to me at MSU* are failing to approach
+> me with additional questions (because they ask other people the questions
+> they should be asking me!)
+>
+> ARRRRRRRRRRGGGGGH.
+Uh oh --- someone's got a frowny face...  But yeah, follow-up: I think 
+Steve Haddock had better luck after our boot camp at MBARI than I ever 
+had --- Steve, can you tell us what happened, how well it worked, and why?
+> Anyway, I think offering a robust set of linkouts by domain might help;
+> I try to point people to biostar and seqanswers in bioinfo, for example.
+> We could try to emphasize that there are many avenues for help online
+> and show people how to use them (something I'm planning to try this summer).
+I tried maintaining a page of useful links several years ago, but I'm 
+not really able or qualified to construct/maintain such a list, and 
+nobody else volunteered.  I'm hoping that online office hours Jon 
+Pipitone has been organizing will work better --- he's preparing a blog 
+post about early experiences.
+
+Anyone else tried running live help sessions as a follow-up to our boot 
+camps?  If so, how'd they work out?
+> 3) Regular university courses
+>
+> This term, I'm trying to switch my Web dev course into a whole-term active
+> learning format, driven by the classroom I'm inhabiting.  While I don't think
+> SWC fits into a traditional lecture format, I _do_ think that maybe some of
+> what I'm doing this term fits with SWC: in-class projects and discussions,
+> follow-me tutorials, etc. Cait Pickens is the TA for the course, and I'll ask
+> her if she sees any overlap or utility there.
+Thanks --- Cait?  And is anyone else using this in regular uni courses, 
+or other "regular" training?  If so, experience reports would be _very_ 
+welcome.
+> 4) Continue efforts to "figure out" a common core of materials, instructional
+> format / software, and bypass installation problems.
+>
+> I am continually astonished by the range of strong opinions on the mailing
+> list about things like using VMs, iPyNB, PDFs, Web site per course or no, fork
+> vs branch vs tag vs twig, etc.  We need to come up with a more strongly
+> guided set of instructional materials and approaches, and then evaluate the
+> heck out of them; otherwise we are going to continue futilely moving in all
+> directions.
+>
+> (It is helpful at this point to realize that you are only right if you agree
+> with me about each of the above technologies.)
+At this point, I think our conclusion regarding installation is, 
+"Everything is painful." :-(  And yes, web site per course, etc.: Jon's 
+working on pulling that together, but the online office hours have been 
+taking precedence.
+
+How about everyone else?  What other ways & means for delivery have you 
+tried/are you thinking about/would you be interested in trying?
+
+Cheers,
+Greg
+
+>> We need to come up with a more strongly guided set of instructional
+>> materials and approaches, and then evaluate the heck out of them;
+>> otherwise we are going to continue futilely moving in all
+>> directions.
+> If someone is fast on the draw, there are two cohorts (which seem
+> fairly random) going through the second round of Columbia workshops
+> starting in ~8 hours ;).  You just need to get the teaching teams to
+> record their approach and get them some kind of evaluation tool.
+>
+...for some large value of "just"... :-)
+Cheers,
+G
+
+> On Thu, Jan 31, 2013 at 11:12 PM, C. Titus Brown <ctb at msu.edu 
+> <mailto:ctb at msu.edu>> wrote:
+>
+>     On Thu, Jan 31, 2013 at 09:37:18PM -0500, Greg Wilson wrote:
+>
+> [...]
+>
+>     3) Regular university courses
+>
+>     This term, I'm trying to switch my Web dev course into a
+>     whole-term active
+>     learning format, driven by the classroom I'm inhabiting. 
+>
+>
+> You're inhabiting a classroom ?! Titus, go home to your family!
+They're... *cough* They're the ones who sent him there... :-)
+>
+>     While I don't think
+>     SWC fits into a traditional lecture format, 
+>
+>
+> Seriously though, I agree a lot with this, and any course that we 
+> inject with SWC will have to be a fairly special and overly 
+> interactive course. I think it would take a lot of manipulating to fit 
+> SWC naturally into the majority of 'regular university courses,' those 
+> that are not already overly interactive in this way.
+>
+> THAT SAID, those courses totally exist. Titus clearly has some. Also, 
+> though, Paul Wilson used to (and I believe still does) use the first 
+> few days of his computational nuclear engineering course to teach 
+> purely software-carpentry type stuff (this was one of the very first 
+> venues for thehackerwithin). It seemed to help a lot. (as an aside, I 
+> think Paul's continued habit doing this in his classes provides some 
+> evidence that his class goes better when all the students have had 
+> this training... a data point of evidence supporting a long term gain 
+> in skills).
+>
+> katy
+Good to know --- Paul, have you got anything (final marks, for example) 
+for students from classes where you did and didn't do this?
+Cheers,
+Greg
+
+> On 2013-02-01 12:12 AM, C. Titus Brown wrote:
+>> 2) "So now what do I do?"
+> I almost hesitate to offer this suggestion because it's such a huge 
+> amount of work but... an online community might be the thing here. I 
+> took an online course last year (not on a technical topic) and one of 
+> the features they advertised was access to their "community of 
+> like-minded people" delivered through a Facebook group and comment 
+> threads. (Because we're not idiots we would deliver it with something 
+> more sophisticated.)  The community saw a lot of activity, with people 
+> asking questions and sharing their experiences and best practices.
+We tried that in the fall of 2010 and the winter of 2011, with very poor 
+results (if I recall correctly, only about a dozen people ever showed 
+up).  Could have been the way we implemented it, or a reflection of how 
+diverse people's needs are...  Jon, you were around then --- any 
+comments or recollections?  (F'example, we hosted a forum ourselves --- 
+perhaps if we were integrated with Facebook or the like, so that people 
+didn't have yet another site to visit, things would go better.)
+Cheers,
+Greg
+
+> I'm happy to help out setting up a form, but my I'm already leaning 
+> towards WSGI and Jinja, which is maybe not a good approach for Dreamhost…
+I'm going to channel Jon here [1] and say, "Let's focus on the 
+questions, rather than the delivery mechanism, until we have a better 
+idea of what we need."
+Cheers,
+Greg
+[1] "Hey Greg, stop working on the web site and start writing more content!"
+> My "Advanced Programming and Database Management for Biologists"
+> course at Utah State
+> (http://programmingforbiologists.org/advanced-programming-and-database-management-biologists)
+> is based almost entirely on Software Carpentry (the full set of online
+> material not just what we teach in two days... obviously). It is a
+> blended classroom. For about 2/3 of the semester the students view SWC
+> material before class, at the beginning of class I provide 5-10
+> minutes of additional introduction to the material or answer questions
+> the students had after viewing the videos, and then they spend the
+> rest of class working on problems related to the material. They also
+> do an independent project related to their research and the last 1/3
+> of the semester involves primarily me helping individual students work
+> on their research projects (plus I present a set of more advanced or
+> discipline relevant topics that they choose by voting on, e.g., the
+> GPU peta cloud). It's been fairly popular for a rather nerdy graduate
+> class and scores off the charts. I'd be happy to change the name to
+> Software Carpentry (I've been planning on bringing this up with Greg
+> since the last all hands meeting but haven't found the time) if that's
+> of use. If you're interested in a more detailed experience report, let
+> me know what you're looking for and I'll put it on my list.
+Please may I post everything except the last couple of sentences to our 
+blog?  And yes, more details would be very welcome...
+Cheers,
+Greg
+> Perhaps this suggests a teaching module on reading docs?  We did this 
+> in one of the tutorial sessions I ran before we started a 10 week SWC 
+> course (several years back). We spent an hour or so going over how do 
+> read the matlab documentation (using help() and whatnot) as well as 
+> where to go online for questions and answers, etc..  Super helpful.
+Send us stuff!  Please, send us stuff!
+G
+Um... sudo on Windows? :-)
+- G
+> Most scientists around me use no version control at all. Of those who 
+> do, it's about 50% SVN, 25% Git, and 25% Mercurial.
+That's a useful stat.  I believe Titus reported a couple of months ago 
+that a sample of bioinformatics projects found SourceForge, followed by 
+GitHub, with only one using BitBucket --- Titus, can you remind me of 
+the numbers?
+Cheers,
+Greg
+> But I am skeptical that SWC's remit could extend to useful software 
+> development, and I think Greg has some serious history with that to 
+> share (DrProject <coff coff>).
+Yeah... For those of you who weren't around back then, my students spent 
+several years (off and on) working on a fork of Trac called DrProject 
+(and later renamed "Basie"). What we eventually produced was a lot 
+cleaner than Trac, but (a) not so much so that anyone was itching to 
+switch, and (b) we never built the critical mass required to maintain 
+it.  Given how hard it's proving for people to find time to write cheat 
+sheets for various topics, much less entire lessons, I think that 
+_building_ software is out of scope for Software Carpentry.  Advocating 
+particular tools as being best suited for scientists, on the other hand, 
+and figuring out how best to present them, is definitely in scope.
+- G
+p.s. on the other hand, the original Software Carpentry project was a 
+design competition for some new easy-to-use tools.  Two of them (SCons, 
+a build manager, and Roundup, an issue tracker) are still around with 
+small (but dedicated) followings.
+> Maybe I should move this to the new discussion list, or let it die out, but can't resist….
+Let's move it to 'discuss' please --- I think it's a useful discussion, 
+but we definitely need more data.
+- G
+The Salk Institute in San Diego would like a two-day boot camp in the 
+week of June 11-14.  Please add yourself to 
+https://github.com/swcarpentry/website/issues/281 ASAP if you're 
+interested in teaching --- we need to nail down date and space.
+Thanks,
+Greg
+Hi everyone,
+Let's move this discussion over to 'discuss'...
+Cheers,
+Greg
+Hi everyone,
+https://github.com/swcarpentry/website/issues/287 --- we have a chance 
+to run a boot camp in conjunction with a conference at NCAR in Boulder 
+at the end of May.  There may be participation from the US Geological 
+Survey as well. Please add your name to the ticket if you're interested...
+Cheers,
+Greg
+Hi everyone,
+We'd like to run another boot camp in Chicago in May: please see 
+https://github.com/swcarpentry/website/issues/319 to sign up to help teach.
+We'd also like to run one in Oklahoma before the end of June: please see 
+https://github.com/swcarpentry/website/issues/36
+And there's a chance of doing one in June at the University of Southern 
+California: please see https://github.com/swcarpentry/website/issues/320
+Once these are out of the way, we'll close out the first half of the 
+year and start booking for the fall.
+Thanks,
+Greg
+Thanks for the note, Mike --- let's move this discussion to the 
+'discuss' list?
+Thanks,
+Greg
+Hi,
+Cameron Neylon, from PLoS, has an interesting data set he'd like 
+analyzed --- needs expertise in time series, and a few hours. Result is 
+probably publishable, and will definitely be interesting. Please email 
+me directly if you'd like to take a crack at it.
+Cheers,
+Greg
+Hi everyone,
+We need one more tutor for VT on July 15-16 --- please give us a shout 
+if you're interested.  The audience is computational chemists...
+Cheers,
+Greg
+Some of you may be interested in this:
+http://computinged.wordpress.com/2013/04/25/googles-computer-science-teach-fellows-program/
+Thanks,
+Greg
+Hi everyone,
+Please add yourself to https://github.com/swcarpentry/website/issues/502 
+if you'd like to help teach at Simon Fraser University in Vancouver in June.
+Thanks,
+Greg
+Hi,
+We're putting together a paper on what we've learned about Software 
+Carpentry over the past few years; current outline is below, and if 
+there are more points you'd like to add, please send 'em to me.
+Thanks,
+Greg
+p.s. or clone https://github.com/swcarpentry/assets and send us a pull 
+request on 
+papers/software-carpentry-lessons-learned/software-carpentry-lessons-learned.tex.
+--------
+# Software Carpentry: Lessons Learned
+
+* Neil Chue Hong (NCH)
+* Katy Huff (KH)
+* Michael Jackson (MJ)
+* Justin Kitzes (JK)
+* Stephen McGough (ASM)
+* Lex Nederbragt (LN)
+* Ben Waugh (BW)
+* Ethan White (EW)
+* Greg Wilson (GW)
+[apologies for the cross-posting]
+I've updated the pre-assessment questionnaire and posted a new version 
+at https://github.com/swcarpentry/website/issues/512. I *think* this 
+more-or-less accurately categorizes our intended audience; suggestions 
+would be very welcome (please post them as comments on that ticket, 
+rather than mailing these lists).
+Thanks,
+Greg
+The Dept. of Energy's Joint Genomics Institute (an affiliate of Lawrence 
+Berkeley National Lab) would like a boot camp this summer. They're in 
+Walnut Creet, in the SF Bay area; if you'd like to teach, please add 
+your name to https://github.com/swcarpentry/website/issues/383 and we'll 
+get the ball rolling.
+Thanks,
+Greg
+Hi everyone,
+As per https://github.com/swcarpentry/website/issues/419, The Australian 
+Bioinformatics Network (ABN) has funding to bring one instructor to 
+Australia from overseas to help teach a boot camp in Adelaide Sept 
+24-26, and another in Brisbane the following week (beginning Sept 30). 
+They'd strongly prefer someone with a bioinformatics background; if 
+you're interested, please add your name to the ticket.
+Cheers,
+Greg
+Yes please, but could someone please also do a blog post at some point 
+about this?  "How do I manage my data?" comes up every time we teach, 
+and this looks like something we should all have in our back pocket as 
+part of the answer.
+Thanks,
+Greg
+Hi everyone,
+I'd like to schedule another hour-long meeting to discuss our plans for 
+2013 before we all break for the holidays.  If you'd like to take part, 
+please fill in http://doodle.com/esfih96dycs2ka5q to let us know when 
+you're available.
+Thanks,
+Greg
+...and willing to spend a few hours working with one of the clearest 
+thinkers about software development that I know, Michael Feathers is 
+looking for a statistician: 
+https://twitter.com/mfeathers/status/274994395646939137.  I'd be happy 
+to send details if you're interested.
+- Greg
+Hi everyone,
+I'm drafting some blog posts to put out in the coming week, and would be 
+grateful for your input: if you have something you'd like to add (or 
+correct) in any of the outlines below, please mail me directly.  And if 
+there's something _you'd_ like to blog about, we're always looking for 
+guest authors.
+Cheers,
+Greg
+
+- Why Do People Become Instructors?
+   - general betterment of the species
+   - it's fun
+   - build reputation (esp. if looking for new job/post-doc/etc.)
+   - make own life easier by making colleagues more clueful
+   - what else??
+
+- Who Can Run a Software Carpentry Workshop?
+   - anyone can use our materials however they want (with attribution)
+   - but the name itself is trademarked, so people can't call their 
+workshops "Software Carpentry" without our approval
+     - we'd like to ensure *some* consistency
+   - it's easy to get (just ask), but:
+     - if you're running an MPI-in-C++ course, we're going to ask you to 
+call it something else
+     - and we'd like to hook you up with one of our instructors (at 
+least the first time) in order to build community
+
+- We're Moving to GitHub
+   - after a lot of discussion, we're moving our repository to GitHub
+     - we'd like to bring scientists into that community (and that's 
+where all the hip kids hang out these days)
+     - self-hosting an SVN repo hasn't brought us dozens of contributors
+   - [description of repository structure]
+   - [description of workflow]
+
+- Moving Up and Moving Down
+   - our existing workshops/material are aimed at people who:
+     - know enough to write a hundred-line script
+     - but don't yet use version control or do any systematic testing
+   - many potential learners are before or after this stage, and we'd 
+like to help them
+     - Software Carpentry for complete beginners
+     - and an advanced course (web programming, parallel computing, etc.)
+   - needs people to put together the content *and* teach half a dozen 
+times to try it out
+     - a big commitment, but potentially big rewards, too
+
+- Our First Hackathon
+   - we'd like to invite our friends to a week-long hackathon at 
+Mozilla's office in Toronto in June to:
+     - create new lessons
+     - give each other feedback on teaching (we'll run a workshop during 
+the week)
+     - build new tools (like extensions for IPython Notebook)
+     - get to know each other
+   - we will have a small budget for travel and accommodation, but most 
+people will have to fund themselves
+     - so please start thinking about other things you could piggyback 
+with such a visit
+Definitely.
+- G
+Trademarked in Canada --- it's all I could afford :-)
+G
+...from people with lab backgrounds, to persuade some people in CA to 
+front travel money for a workshop (need to convince 'em what we do is 
+useful).  Any hands-on scientists on this list care to send me a paragraph?
+Thanks,
+Greg
+Hi everyone,
+Thanks to a lot of hard work from Matt and Jon, 
+http://dev.software-carpentry.org is looking a more and more like a real 
+web site.  We know we need to jazz up the home page, and clean up the 
+formatting of the setup instructions, but we think everything else is 
+pretty close to ready --- again, any comments you have would be very 
+welcome.
+Regarding timing: our Edinburgh workshop starts today, and next week is 
+Austin, but then we have a break for a couple of weeks, so we'll cut 
+over then.
+Cheers,
+Greg
+Hi,
+We need to pretty up our home page --- if you have an image from your 
+research that we could use as a decoration, that you can give us under a 
+CC-BY license, please send it my way.  (And please send it 
+point-to-point so as not to bucket this list.)  Or if you have a good 
+picture from a boot camp, that'd be welcome too.
+Thanks,
+Greg
+Hi everyone,
+Your votes are in, and I'd like to invite you all to take part in a 
+year-end wrap-up chat on Wednesday, December 19, at 12:00 noon Eastern 
+time. Please join us on +1 800 707 2533 (password 369 without a '#', 
+conference ID 7618 --- it works by Skype from everywhere we've tried), 
+and please also have a browser open to 
+https://etherpad.mozilla.org/swc-tutorial for note-taking and text chat 
+--- I'll post the agenda there a couple of days in advance.
+Looking forward to chatting with you all,
+Greg
+Hi everyone,
+Thanks for your feedback over the last couple of weeks: when you have a 
+minute, could you please go to http://www.surveymonkey.com/s/CLBKMXG and 
+vote for the three (3) things you would most like us to work on in 2013? 
+  We'll use this as a starting point for Dec 19's meeting.
+Thanks,
+Greg
+Hi Shreyas,
+If we had more resources, it would definitely make sense, but as it is, 
+all these things are fighting for pretty much the same person-hours...
+Cheers,
+Greg
+https://twitter.com/swcarpentry/software-carpentry/members
+More Twitter IDs would be very welcome...
+Thanks
+Greg
+Please add your GitHub ID to http://www.surveymonkey.com/s/3L656JC 
+(because that'll be simpler for me than a flood of email).  If you don't 
+have a GitHub ID, please create one, then see step #1.  We'll be 
+starting to use a GitHub issue tracker Real Soon Now to manage 
+workshop-related tasks...
+Thanks,
+Greg
+Hi everyone,
+
+Here's my first cut of possible dates for workshops in 2013.  Ones that 
+are already scheduled have '*', ones that need people and firm dates 
+have '?'.  What I'd like to do between now and Dec 21 (when we break for 
+the holidays) is pin down dates *and* figure out who's going to be 
+teaching and helping.  So:
+
+1. If you've taught before, _or_ have been taking part in the online 
+study groups at http://teaching.software-carpentry.org, and would like 
+to help lead any of the '?' workshops below, please mail me directly 
+about your availability and preferences ("I would like to teach at X, 
+and dates Y or Z work for me", kind of thing).  Host sites are covering 
+travel expenses, so you won't be out of pocket.
+
+2. If you've haven't taught before, _and_ haven't taken part in the 
+online study group, you'd be very welcome as a helper --- please pick 
+somewhere nearby, since host sites only cover travel costs for 
+instructors. (And if you're in this category and think you're ready to 
+help lead a workshop, please let me know --- I'm happy to upgrade you :-)
+
+3. In either case, please mail me directly, rather than mailing the 
+whole list --- I'll try to solve the NP-complete matching problem in my 
+spare time :-)
+
+4. If you would like to organize/run a workshop where you are, and 
+you're not already on this list, please get in touch about that as well. 
+  It doesn't have to be a big thing: if you want to get a dozen people 
+in a room for a day, we're still happy to try to match you with another 
+instructor.
+
+5. We're also in discussion for workshops at:
+
+- Tufts U.
+- Centre for Addiction and Mental Health (Toronto)
+- Rotman-Baycrest Institute (Toronto)
+- Clemson U.
+- Duke U.
+- Helsinki
+- Monterey Bay Aquarium Research Institute/UC Santa Cruz
+- UC San Francisco
+- Miami University (Ohio)
+- North Carolina State U.
+- Michigan State U.
+- Ohio State U.
+- Penn State U.
+- U. Bath (UK)
+- UC Santa Barbara
+- U. Illinois Urbana-Champaign
+- U. Massachusetts
+- U. Queensland
+- Vrije Universiteit (Amsterdam)
+- Indiana U.
+
+If any of these particularly appeal to you, please let me know, and I'll 
+add you to the discussions.
+
+6. If there's somewhere you'd like us to run a workshop that isn't on 
+the list above, or in the list below, please let me know --- in 
+particular, if you'd like one where you are (or where you'd like to be a 
+year or two from now), let's get the ball rolling.
+
+7. Most importantly for me: I desperately need a volunteer to take over 
+this part of Software Carpentry.  It'll be 2-3 hours/week for email and 
+coordination, and I'd be happy to make up an imposing job title that you 
+could put on your CV :-)
+
+8. Finally, we're launching another round in January of the online study 
+group for people want to teach this stuff.  If you'd like to learn more 
+about learning and teaching, please let me know and I'll sign you up.
+
+Thanks very much,
+Greg
+
+p.s. and please remember that we have a conference call at noon Eastern 
+on Wednesday, Dec 19, to discuss plans for the coming year.  (See our 
+latest blog post for the results of your votes on the issues...)
+
+Australia
+---------
+
+*       Feb 07-08       Macquarie University
+                         Greg Wilson
+
+*       Feb 14-15       AMOS Conference (Melbourne)
+                         Greg Wilson
+
+Europe
+------
+
+*       Jan 22-23       TU Munich
+                         Steve Crouch, Konrad Hinsen
+
+*       Jan 25-26       Max Planck Institute Tubingen
+                         Steve Crouch, Luis Figueira
+
+?       Apr 18-19       University of Manchester
+         May 02-03
+
+?       Apr 04-05       ISOS, Kiel
+         Apr 15-16
+         Apr 18-19
+
+North America
+-------------
+
+*       Jan 12-13       University of Chicago
+                         Katy Huff, Anthony Scopatz
+
+*       Jan 12-13       University of Waterloo
+                         Nasser Mohieddin Abukhdeir
+
+*       Jan 12-13       McGill University
+                         Ross Dickson, Jessica McKellar, David Warde-Farley
+
+*       Jan 31-Feb 1    Virginia Tech
+                         Tommy Guy, Chris Lasher
+
+*       Mar 07-08       University of Virginia
+                         Carlos Anderson, Steve Crouch, Ben Morris
+
+?       Mar 11-12       Caltech
+         Mar 14-15       TBD
+         Apr 08-09
+         May 02-03
+         May 06-07
+
+?       Mar 14-15       Tulane U.
+         Mar 16-17       TBD
+         Mar 18-19
+         Mar 21-22
+         Mar 23-24
+         Jun 08-09
+         Jun 13-14
+
+*       Mar 25-26       University of Washington
+                         Ted Hart, Bernhard Konrad, Anthony Scopatz
+
+?       Mar 28-29       Lawrence Berkeley National Lab
+         Mar 30-31       TBD (can't be Greg Wilson)
+
+*       Apr 04-05       University of Arizona
+                         Titus Brown, Karen Cranston
+
+?       Apr 11-12       UC Berkeley
+         Apr 13-14       Justin Kitzes + TBD
+
+?       Apr 11-12       Stanford
+         Apr 13-14       Ariel Rokem + TBD
+
+?       Apr 27-28       University of Wisconsin - Madison
+         May 04-05       Steve McGough, Paul Wilson
+
+?       May 06-07       University of Alberta
+         May 09-10       Bernhard Konrad + TBD
+
+?       May 06-07       University of Washington
+         May 09-10       Greg Wilson + TBD
+         May 13-14
+
+?       May 13-14       UC Davis
+                         TBD
+
+?       May 18-19       US Geological Survey (Denver)
+                         Greg Wilson + TBD
+
+?       May 27-28       University of Oklahoma
+         May 30-31       TBD
+In the note I sent earlier, I listed the U Washington workshop as March 
+25-26.  It's actually February 25-26.  We apologize for the error.
+Thanks,
+Greg
+Hi,
+Another workshop has just surfaced: Friday+Saturday in February or 
+March, excluding the first Friday of every month, at Duke, using R 
+instead of Python.  If you're interested, please add a comment to the 
+ticket I've just opened on GitHub indicating what dates you're 
+available: https://github.com/swcarpentry/website/issues/41
+Thanks,
+Greg
+...from launching our new and improved web site.  We'd be really 
+grateful if you could have a look at http://dev.software-carpentry.org/ 
+and follow a few randomly-selected links to see what you can find that 
+we ought to fix before we cut over.  There will be prizes!
+Cheers,
+Greg
+> Generally I like the clean look of the new site. The default font size
+> comes out a bit small for my liking though I'm not sure it is actually
+> any different to the old version. Maybe I'm just getting old.
+
+Agreed --- ticketed (https://github.com/swcarpentry/website/issues/53).
+
+> The "blog" link under "Contact" on the home page is dud, although the
+> one at the top of the page works.
+
+Noted: (https://github.com/swcarpentry/website/issues/51).
+
+> The Disqus "recommended for you" links are a bit random and annoying.
+> Should I care about Alyson Hannigan's Kid Growing Up Gorgeous? I don't
+> recall seeing anything like this on the current site. Can it be turned off?
+
+That's a very good point --- short answer is, I don't know 
+(https://github.com/swcarpentry/website/issues/54).
+
+> I like the way the old Wordpress blog shows a bit more context and the
+> off picture, and is generally a bit nicer to look at than the new
+> minimalist version.
+
+I've asked people to send pictures we can use to dress up the web site, 
+but have only had two so far.
+
+Hint, hint.
+
+Thanks,
+Greg
+That's kind of scary in a way.  Does the journal not have a clear policy 
+statement somewhere?
+Cheers,
+Greg
+> The previous boot camps
+> <http://dev.software-carpentry.org/bootcamps/index.html> link on
+> http://dev.software-carpentry.org/bootcamps/how-to.html links to
+> "Upcoming Workshops" instead of "Past Workshops".
+
+Fixed.
+
+> Do you need the "Home" link if the Software Carpentry logo also takes
+> you to the home page?
+
+Hm. That's a UI question, so I'll ticket it and let people argue on 
+GitHub: https://github.com/swcarpentry/website/issues/56.
+
+> Highlighting the current section in the nav strip at the top would also
+> be a nice though.
+
+I seem to be the only person who _doesn't_ want a pull-down menu and 
+some sort of location highlighting, so 
+https://github.com/swcarpentry/website/issues/55.
+
+Thanks,
+Greg
+Hi everyone,
+We've just added two workshops in the UK for 2013:
+
+* University of Manchester: April 18-19, 2013: 
+https://github.com/swcarpentry/website/issues/24
+
+* University of Bath: July 15-16, 2013: 
+https://github.com/swcarpentry/website/issues/42
+
+If you would like to help teach either, please add a comment to the 
+appropriate GitHub ticket.
+
+Cheers,
+Greg
+Matt Davis is going to be moving us from SVN to GitHub tonight, so 
+please hold off on check-ins to the SVN repo --- if you are making 
+changes, we'll take diffs tomorrow and integrate 'em.
+Fingers crossed...
+Thanks,
+Greg
+Hi everyone,
+It's been a long road, but we're finally here: I just made my first pull 
+request (https://github.com/swcarpentry/website/pull/74) against our 
+GitHub repo (https://github.com/swcarpentry/website/).  Many thanks to 
+everyone who made it happen --- I look forward to lots more pull 
+requests soon.
+Cheers,
+Greg
+Hi Shreyas,
+Right now, the process is manual: every once in a while, Jon P. or I 
+will log into software-carpentry.org, git pull whatever's in the master 
+copy on GitHub, compile, and voila.  We'll try to make this a more 
+regular thing, or even automate it, once I'm no longer terrified by Git :-)
+
+Thanks,
+Greg
+Lots still to do, but http://software-carpentry.org is now built from 
+the Git repo.  Again, many thanks to everyone who helped make it happen 
+--- it's a great Hanukkah present :-)
+Cheers,
+Greg
+p.s. I'm not going to advertise the new web site on Twitter etc. until 
+Monday, just in case we find something horribly, horribly wrong...
+Translation: let's wait 'til Greg can get the spoon in his mouth two 
+times out of three before we tell him not to put his elbows on the table.
+:-)
+G
+Hi everyone,
+Our final meeting of 2013 is taking place tomorrow (Wednesday, Dec 19) 
+at noon Eastern time.  Details, agenda, and supporting material are in 
+the attachment (don't worry, you can ignore three quarters of it :-). 
+Please try to connect a couple of minutes in advance of the start of the 
+meeting, and if possible, use a headset microphone to avoid audio 
+feedback problems.
+I'm looking forward to chatting with you all,
+Greg
+Hi,
+In answer to a couple of questions:
+1. You should be able to connect to the 1-800 number via Skype from just 
+about anywhere in the world.
+2. Everyone on the 'tutors' mailing list is welcome to attend the 
+meeting, even if they haven't taught a boot camp yet.
+Cheers,
+Greg
+Corrections to me, please, and thanks again for a great year.
+Greg
+I may not agree with the "hobby project" assessment [1], yes, we're 
+sticking to Python 2.7 for now.
+Thanks,
+Greg
+[1] A politely Canadian way of saying "them's fightin' words" :-)
+I think the first step is for me to create a GitHub repo for non website 
+content: assessment, generic pitches, vector graphics source files for 
+our logo, etc.  I'm tempted to call it 'stuff', but someone will laugh 
+at me if I do that (or roll their eyes and say, "Oh, Greg...")  I'll 
+think of a better name and create it this evening.
+- G
+PyData is in Santa Clara in March, and the call for speakers is open: 
+http://sv2013.pydata.org/sv2013/speakers/proposals/.  If anyone would 
+like to represent Software Carpentry, please let me know...
+Cheers,
+Greg
+https://github.com/swcarpentry/assets is a home for material that (a) 
+doesn't have a natural home on our web site, and (b) is OK for public 
+consumption (i.e., the copyright isn't held by some journal, the license 
+is compatible with ours, and it isn't something like the answers to a 
+quiz we'd like to give).  Total size is about 44 MByte (which doubles 
+when you check out with Git).  Please see the README.md for a directory 
+of contents...
+Thanks,
+Greg
+
+We're compiling a list of blogs of people who teach Software Carpentry; 
+if you would like yours added, please email me point-to-point and I'll 
+put you on it.
+Thanks,
+Greg
+Hi everyone,
+
+1. If you have colleagues in or near Montreal who could help us spread 
+the word about our upcoming bootcamp on Jan 12-13 (see 
+http://software-carpentry.org/bootcamps/2013-01-mcgill.html), please 
+email them, or introduce me to them.
+
+2. The people I have signed up for the third round of our study group are:
+
+Jon Duncan
+Nancy Giang
+Kate Hertweck
+Geoff Oxberry
+Karthik Ram
+Joon Ro
+Amanda Whitlock
+Kai Zhuang
+
+If you would like to take part, but aren't on this list (or started in 
+the first or second round and didn't have time to complete things, but 
+would like to re-sync), please email me.
+
+3. As per point #9 in 
+http://software-carpentry.org/blog/2012/12/minutes-2012-12-19-meeting.html, 
+I'd really appreciate introductions to other places we could run boot 
+camps: universities, research labs, conferences, you name it.  (Hey, 
+everyone needs a hobby to keep 'em busy while they're digesting all that 
+peanut brittle...)
+
+4. Pro tip: when _real_ ninjas try to hide, they don't leave their 
+bunny-slippered feet sticking out from under the covers [photo attached].
+
+Best wishes for 2013,
+Greg
+Hi everyone,
+
+In response to a question: if you are working on the point-form outline 
+of a topic (to be sent to boot camp participants beforehand so that they 
+know what we'll be teaching) and the cheat sheet for that topic, then:
+
+1. The issues are all tagged 'reference'.
+
+2. I've made one of the two people responsible the owner (since GitHub, 
+in its infinite wisdom, won't allow an issue to be assigned to two or 
+more people).
+
+3. We'll use Markdown for drafts, and store it in the 'boot-camps' repo.
+
+4. Please put stuff in swcarpentry/boot-camps/{whatever}.md, where 
+{whatever} is {'sql', 'git', 'quality', 'regexp', 'python', 'shell'} 
+(and 'quality' is 'testing and stuff').
+
+5. The point-form outline should be half a dozen bullets at most --- the 
+goal is to let people judge whether they already know this stuff or not.
+
+6. The cheat sheet should be --- well, hm, that's going to vary from 
+topic to topic, isn't it?  A summary of useful commands and concepts 
+makes sense for the shell, but I'm not sure what'll be most useful for 
+Git.  The one thing we should fix on is that the printed output 
+shouldn't be more than a single page (and that page shouldn't be 
+crowded).  You can use the <div class="keypoints"> and <div 
+class="understand"> sections in book/*.html in the website repo as a 
+starting point for content (I'll eventually rewrite those sections to 
+sync with whatever's in the cheat sheets).
+
+Thanks,
+Greg
+
+p.s. GitHub uses a tool called Redcarpet to translate Markdown to HTML. 
+  You can install it on Unix-ish systems using:
+
+     gem install redcarpet
+
+('gem' is the Ruby package manager), and then do:
+
+     redcarpet myfile.md > myfile.html
+
+to translate your Markdown to HTML the way GitHub will.
+Hi everyone,
+A few new possibilities --- please email me to let me know what you're 
+interested in.  The Duke U. boot camp is the most pressing...
+Thanks, and happy holidays,
+Greg
+
+- Howard Hughes Medical Institute in Ashburn, VA: May 2-3 as a first 
+choice, and if not, May 6-7 or May 9-10.
+
+- Duke University, in R, on a Friday and Saturday in March.
+
+- Tufts University (Boston) some time this spring
+
+- University of Alberta in Edmonton: Bernhard Konrad is interested, but 
+we need at least one more (again, some time this spring)
+
+- University of Oklahoma, some time late spring
+Aaaand one more: The Integrated School of the Ocean Sciences at Kiel 
+would like a boot camp this spring (May 6-7 are their preferred dates, 
+but they have some flexibility).  Ticket is 
+https://github.com/swcarpentry/website/issues/25 --- please add your 
+name if you're interested.  Oh, and:
+
+ > - Howard Hughes Medical Institute in Ashburn, VA: May 2-3 as a first
+> choice, and if not, May 6-7 or May 9-10.
+
+https://github.com/swcarpentry/website/issues/162
+
+> - Duke University, in R, on a Friday and Saturday in March.
+
+https://github.com/swcarpentry/website/issues/41 --- Jared and Ted, are 
+you both still good for this one if we do it in March?
+
+> - Tufts University (Boston) some time this spring
+
+https://github.com/swcarpentry/website/issues/163
+
+> - University of Alberta in Edmonton: Bernhard Konrad is interested, but
+> we need at least one more (again, some time this spring)
+
+https://github.com/swcarpentry/website/issues/32 (remember, you'll only 
+be three hours from some of the best skiing in North America...)
+
+> - University of Oklahoma, some time late spring
+
+https://github.com/swcarpentry/website/issues/36
+
+Thanks,
+Greg
+
+p.s. if any of our European instructors would like to come over to North 
+America and help teach a couple, I'd be happy to talk about ways of 
+making that happen.  Similarly, if anyone who has taught a couple of 
+times in North America would like to go to Europe to teach a couple 
+there, please let me know...
+Hi,
+I no longer have easy access to a Windows machine, so could someone who 
+can get their hands on Vista, Win7, and/or Win8 please try out Trevor's 
+script and add comments to 
+https://github.com/swcarpentry/website/issues/40 to let us know if it works?
+Thanks,
+Greg
+Hi,
+We have a request for a boot camp at Clemson U. in mid-February --- 
+probably a small event, so a good way for people in either Carolina to 
+get their feet wet.  If you're interested, please add yourself to 
+https://github.com/swcarpentry/website/issues/206 ASAP and we'll get it 
+set up.
+Cheers,
+Greg
+Hi,
+Before I post this (and add it to the web site), I'd welcome comments 
+and suggestions for additions.
+Thanks,
+Greg
+Hi everyone,
+In the interests of keeping things simple, I propose the following:
+1. For each package/tool/whatever XYZ that we might want people to set 
+up for a boot camp, we create a file in bootcamps called _xyz.html with 
+instructions for all three platforms (more or less).
+2. Each bootcamp/yyyy-mm-site.html file has <h2>Setup</h2> at the 
+bottom, followed by {% include '_xyz.html' %} for each package the 
+instructors want people to set up.
+3. That's it.
+Any objections?
+G
+[Bringing this discussion back to the main 'tutors' list]
+
+Hi everyone,
+I think I agree with Trevor: since we're expecting boot camp leads to 
+fork the swcarpentry/boot-camps repository to create a mini-site for 
+their own boot camp that is under their complete control, it seems like 
+that's the most sensible place to put setup instructions (which may, as 
+Mike J. pointed out, be too long to fit comfortably on the boot camp 
+announcement/registration page on the main web site).  If we create an 
+_includes/setup directory with snippets of installation instructions, 
+then when you fork the boot-camps repo, you'll have all the pieces, 
+which you can include by reference in your page.  Does this seem like a 
+better choice than putting it in the website repo?
+Cheers,
+Greg
+In response to Titus linking to a blog post when he needed a short 
+explanation of what Software Carpentry is all about, I've created 
+http://software-carpentry.org/about/90seconds.html --- please send pull 
+requests if you have ideas about making it punchier or truthier :-)
+thanks,
+Greg
+Hi Mike,
+This is all great stuff --- would you like to do a pull request on 
+bootcamps/how-to.html?  (Should there be a "getting support" section up 
+at the top?)  And if other people have suggestions, please (please) send 
+'em to the list and/or submit pull requests --- we need to be more 
+persuasive if we're going to scale.
+Cheers,
+Greg
+Please have a look at http://software-carpentry.org/about/faq.html and 
+send us other questions (and answers) to add.
+Thanks,
+Greg
+> I'm also wondering whether it's appropriate to have a 
+> banner/badge/ribbon/somesortofgraphic that sits on the front page for 
+> a few weeks to announce the program.  Perhaps something like the "Fork 
+> me on github" ribbons?  It's just not immediately obvious to me that 
+> people will know where to go if they start from the front page. 
+>  Thoughts?
+Go for it.  (Everything after that is graphic design, so I'll recuse 
+myself.)
+> My thinking was also to get Greg to tweet about the office hours on 
+> Wednesday and Thursday.
+Happy to give you (and others) the Twitter account password...
+And yes, we need a presence on Facebook...
+Thanks,
+Greg
+> I find that surprising. In graduate school, I was often stuck with 
+> using a VM because my department stubbornly insisted upon only 
+> providing and supporting Windows machines. Consequently, it was easier 
+> to just use a VM. On the reproducible research side of things, I found 
+> that using a VM (and scripting it with Vagrant) was the closest I 
+> could get to providing a turnkey environment for people who simply 
+> aren't interested in figuring out how to install software.
+My bad --- I need to add this to the FAQ at some point (or maybe create 
+a section in the FAQ for instructors and organizers).  The problem with 
+Linux VMs for Windows users is that when the boot camp is done, the user 
+is left with two painful options: try to install all this stuff in their 
+Windows environment on their own, without our help, or keep switching 
+back and forth between their usual environment and this alien parasite 
+that's taken up residence on their desktop.  The best answer would be to 
+teach separate classes for Linux/Mac (which are close enough that we can 
+treat 'em as one) and Windows, and to use PowerShell instead of Bash on 
+Windows (mmm.... PowerShell... it's what Bash will never grow up to 
+be...), but that's never been practical either (and even if it was, 
+clusters are all Linux, so sooner or later the Windows folks need to 
+come to grips with Bash).
+Le sigh.
+G
+> "Software Carpentry: hammering out the basics of good scientific 
+> software since 1998"
+Oh Neil... :-)  C'mon, folks, let's crank it up a notch: I'll send a 
+one-of-a-kind Software Carpentry teddy bear to whoever comes up with the 
+best motto by the end of next week.
+Cheers,
+Greg
+> Can I suggest having the assignments written out on a Stickie (a MacOS 
+> Stickie, not a paper one) or text file so you can display them on the 
+> screen while people are working?
+Or in Etherpad (which is what I'm using in class as a shared text 
+space)?  Would that work?
+- G
+>
+> Swimming lessons in the data deluge.
+>
+Best so far (next to "Scientific computing doesn't have to hurt", of 
+course *cough* *cough*).  Anyone think they can go one better? :-)
+Cheers,
+Greg
+> "Think science, make code"
+Mmm... that one's going to be hard to beat.  C'mon, folks --- dig 
+deep... :-)
+G
+I like this one too.  How about "better code, better science"?
+- G
+> PS hope this isn't too much of a bikeshed argument!
+Not at all --- just a fun way to spend a Friday afternoon.
+Happy Robbie Burns Day, everyone!
+Greg
+Hi everyone,
+We need a second instructor for March 6-7 at LBL --- strongly prefer 
+someone in the Bay area.  Please add yourself to 
+https://github.com/swcarpentry/website/issues/247 if you're able to help...
+Thanks,
+Greg
+p.s. I'm teaching at LBL March 4-5, but can't stay for a second one 
+back-to-back (and experience last July has taught me that even if I did, 
+I wouldn't have a voice :-)
+Hi,
+I've been talking to Margo Seltzer and Peter Macko (Harvard) about their 
+Common Provenance Library (CPL), a simple "where did this come from and 
+who created it how?" widget (see 
+http://code.google.com/p/core-provenance-library/).  It's written in C, 
+and has Perl, Python, and Java bindings; I'd like to explore including 
+it as part of our "day 3" material [1], but in order to do that, we'll 
+need an R binding.  Shouldn't be too much work --- anyone on this list 
+want to take a run at it?
+Cheers,
+Greg
+[1] A not-immediately-obvious label for extra material that people could 
+optionally include in longer boot camps, or deliver to more advanced 
+learners...
+...about the recent boot camps at UBC and in Germany...  Which I guess 
+means that I ought to write one about last week's boot camp at Mozilla, 
+right?  :-)  If you're comfortable using Git, please send us a pull 
+request; if you'd rather just send me text, I'll post it.
+Thanks,
+Greg
+Jennifer Bryan (UBC) sent us this summary of what they taught in their R 
+workshop a couple of weeks ago --- hope it's useful to other 
+instructors.  In addition, Rick Whyte (also UBC) told us they used 
+RStudio to interact with Git, which seemed to work very well.
+- G
+https://github.com/blog/1395-relative-links-in-markup-files
+- G
+(thanks to Matt Davis for spotting it)
+20 people have signed up for the Manchester boot camp in the last six 
+hours, and we have 34 already registered for Paris.  We seem to be 
+popular :-)
+Cheers,
+Greg
+Hi Jon,
+Cait Pickens has been working on something based on what Titus et al 
+used at Scripps --- Cait, what state's it in?
+cheers,
+Greg
+Hi everyone,
+We're about to announce another batch of boot camps, and between that 
+and feedback we've had from past and current instructors, I'd like to 
+kick off a thread discussing the shortcomings of our current two-day 
+boot camps, and other ways we can teach: we're doing a lot of good, but 
+too many people are still coming out after two days wondering, "So now 
+what do I do?"  A couple of people have talked about offering Software 
+Carpentry as (part of) a regular university course, while others seem to 
+want to try full-week residential courses (similar to the two-week Next 
+Generation Sequencing class Titus et al run at Michigan State).  What 
+shortcomings do you see with our current format, and what other formats 
+would you like to experiment with?
+Thanks,
+Greg
